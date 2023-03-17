@@ -46,7 +46,7 @@ You can use the followed link -> https://de.aliexpress.com/premium/usb-camera-el
 WORKING "NO DISTORTION" <1% - EXAMPLES:
 USBFHD01M-L21 is the ELP cam with an original 2,1mm Lense that means 90°
 USBFHD01M-L29 is the ELP cam with an original 2,9mm Lense that menas 100°
-USBFHD01M-L28 ist the ELP cam with an original 2,8mm Lense that means 98° (nearly 100° human eyes will see no difference)
+USBFHD01M-L28 is the ELP cam with an original 2,8mm Lense that means 98° (nearly 100° human eyes will see no difference)
 
 ATTENTION!
 FOLLOWING LENSE TYPES HAS AN DISTORTION <3% (not so good!)
