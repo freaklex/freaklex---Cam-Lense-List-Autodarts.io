@@ -67,7 +67,9 @@ FOLLOWING LENSE TYPES HAS AN DISTORTION <3% (not so good!)
 USBFHD01M-H100 means 100° (but <3% distortion)
 USBFHD01M-L297 means 92° (but <3% distortion)
 
-Anyway there are several another cams on the market that could work, but with the examples and hints above you will do mutch easier to buy the right ones! And it is always good to have a 4th cam for reserve and a second set of lenses 90° and 100°.
+Anyway there are several another cams on the market that could work, but with the examples and hints above you will do mutch easier to buy the right ones! 
+
+NOTE! It`s always good to have a 4th cam for reserve. It is not a bad idea to have an extra good SET of ELP lenses 90 or 100° at home as a reserve. It's happened that recommended cameras, although described as NO DISTORTION, still had distortion (cause fabrication changed, firmware etc..., so it's good when you can change lenses quickly and easily! And the price with the ELP lenses NO DISTORTION 90/ 100° (as described in the link above) is also affordable for the wallet!
 
 Good luck and have fun with autodarts.io
 ;O)
