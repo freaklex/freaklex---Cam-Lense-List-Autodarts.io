@@ -17,6 +17,8 @@ Also working "super mini Cam" 15x15mm 1080P 90°:
 
 https://de.aliexpress.com/item/32866737090.html?spm=a2g0o.productlist.main.9.32a3393dURJH20&algo_pvid=e2c0ae6e-fe54-4905-8580-13e777bf51b2&aem_p4p_detail=202303170324443196563314254920000215817&algo_exp_id=e2c0ae6e-fe54-4905-8580-13e777bf51b2-4&pdp_ext_f=%7B%22sku_id%22%3A%2212000018377545500%22%7D&pdp_npi=3%40dis%21EUR%2159.5%2126.18%21%21%21%21%21%402102186a16790486841118204d06e6%2112000018377545500%21sea%21DE%213155033906&curPageLogUid=W1VRoJxklrYR&ad_pvid=202303170324443196563314254920000215817_1&ad_pvid=202303170324443196563314254920000215817_1
 
+Note! It seems there are two classes of cams on the market (looking similar). Sometimes this cam needs a Distortion-Calibration with the Boardmanager or easier a lense exchange!
+
 ZYXH CAM 38x38mm 1080P HD Cam 100°:
 
 https://de.aliexpress.com/item/1005003621031603.html?spm=a2g0o.productlist.main.11.7f8f6db2fFpii0&algo_pvid=2166bf86-b80f-4b50-ab05-621508a5a9b4&algo_exp_id=2166bf86-b80f-4b50-ab05-621508a5a9b4-5&pdp_ext_f=%7B%22sku_id%22%3A%2212000026528118954%22%7D&pdp_npi=3%40dis%21EUR%2124.66%2117.26%21%21%21%21%21%40211beeec16790487770572623d06de%2112000026528118954%21sea%21DE%213155033906&curPageLogUid=NIWRrBUYVmA4
