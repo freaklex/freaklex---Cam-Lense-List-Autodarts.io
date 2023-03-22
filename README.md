@@ -17,9 +17,9 @@ Also working "super mini Cam" 15x15mm 1080P 90°:
 
 https://de.aliexpress.com/item/32866737090.html?spm=a2g0o.productlist.main.9.32a3393dURJH20&algo_pvid=e2c0ae6e-fe54-4905-8580-13e777bf51b2&aem_p4p_detail=202303170324443196563314254920000215817&algo_exp_id=e2c0ae6e-fe54-4905-8580-13e777bf51b2-4&pdp_ext_f=%7B%22sku_id%22%3A%2212000018377545500%22%7D&pdp_npi=3%40dis%21EUR%2159.5%2126.18%21%21%21%21%21%402102186a16790486841118204d06e6%2112000018377545500%21sea%21DE%213155033906&curPageLogUid=W1VRoJxklrYR&ad_pvid=202303170324443196563314254920000215817_1&ad_pvid=202303170324443196563314254920000215817_1
 
-Note! It seems there are two classes of cams on the market (looking similar). Sometimes this cam needs a Distortion-Calibration with the Boardmanager or easier a lense exchange! This version possibly needs a lense exchange!
+Note! It seems there are two classes of cams on the market (looking similar). Sometimes this cam needs a Distortion-Calibration with the Boardmanager or easier a lense exchange! This version (18) possibly needs a lense exchange or software calibration!
 
-or buy (without any problems and working directly)
+or buy (without any problems and working -> PLUG&PLAY) directly
 
 https://de.aliexpress.com/item/1005001639797152.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=20831751317&aff_fcid=62e321c03fde40ba94ca3be947d53098-1679131204863-06353-_mOjfk9k&tt=MG&aff_fsk=_mOjfk9k&aff_platform=default&sk=_mOjfk9k&aff_trace_key=62e321c03fde40ba94ca3be947d53098-1679131204863-06353-_mOjfk9k&shareId=20831751317&businessType=ProductDetail&platform=AE&terminal_id=cdd201cc3fbb45928701dfb2fe607294&afSmartRedirect=y
 
